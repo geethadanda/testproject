@@ -1,2 +1,0 @@
-First Line in abc.txt
-Second line in abc.txt
